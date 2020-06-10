@@ -19,7 +19,7 @@
 
 	<div style="clear:both;"></div>
 	<div id="rn_CategoryPaddle" >
-		<h3>#rn:msg:FEATURED_SUPPORT_CATEGORIES_Test_15May20_0155_LBL#</h3>
+		<h3>#rn:msg:FEATURED_SUPPORT_CATEGORIES_Test_10Jun20_0155_LBL#</h3>
 		<rn:widget path="custom/fy15/PaddleWidget" limit_parents="4"  prod_cat="categories" show_community_posts="true"/>
 		<div class="clearfix"></div>
 	</div>
